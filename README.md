@@ -1,10 +1,9 @@
-## About me👋
+## About Me 👋
 
--Building interactive digital experiences
-
--Low-level programming and systems development
-
--Curious about creative coding and generative visuals
+- 🧠 **Low-level programming and systems development**  
+- 🎨 **Creative coding and generative visuals**  
+- 🤖 **AI experimentation and projects**  
+- 💻 **Building interactive digital experiences**
 
 
 
