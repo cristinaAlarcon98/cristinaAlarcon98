@@ -1,6 +1,6 @@
-## About Me 👋
+## About Me
 
-- 💻 **Building full stack digital experiences**
+- 💻 **Building full stack applications**
 - 🧠 **Low-level programming and systems development**  
 - 🎨 **Curious about creative coding and generative visuals**  
 
